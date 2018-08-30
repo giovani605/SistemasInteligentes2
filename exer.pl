@@ -1,4 +1,5 @@
 :- dynamic you_have/1, location/2.
+## Versao do prolog 7.2.3
 
 location(egg,duck_pen).
 location(ducks,ducks_pen).
